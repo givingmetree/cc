@@ -6,4 +6,4 @@ MIT
 * for PXT/microbit
 (The metadata above is needed for package search.)
 ```package
-custom=github:ufoearth/xxxxx
+custom=github:givingmetree/cc
